@@ -1,0 +1,7 @@
+{
+  "name": "com.meifukun.tools.samplepkg",
+  "version": "1.0.0",
+  "displayName": "Sample Pipeline Tools",
+  "unity": "2022.3",
+  "description": "Small editor utilities for asset pipeline diagnostics"
+}

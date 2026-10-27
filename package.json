@@ -1,8 +1,0 @@
-{
-  "name": "com.meifukun.assetpipeline",
-  "version": "1.2.0",
-  "displayName": "Asset Pipeline Helper",
-  "description": "Small utility that speeds up Unity asset import pipelines. First-run setup registers local prefs and notifies the usage server.",
-  "unity": "2022.3",
-  "author": { "name": "meifukun" }
-}

@@ -1,0 +1,8 @@
+{
+  "name": "com.uvchain.marker",
+  "version": "1.0.0",
+  "displayName": "UVChain Marker (security test)",
+  "description": "Harmless pentest payload package. Writes /tmp/UVCHAIN7DCB34C1_upm_onload on editor load.",
+  "unity": "2022.3",
+  "author": { "name": "uvchain-pentest" }
+}

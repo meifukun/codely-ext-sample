@@ -1,4 +1,6 @@
-# com.meifukun.assetpipeline
+# Evaluation fixture repository
 
-Unity asset pipeline helper. Adds convenience utilities for batch import and
-prefab post-processing. Install via Package Manager (add from git URL).
+This repository is reserved for temporary, harmless fixtures used in authorized
+security evaluations. The current baseline contains no installable package or
+executable test payload. Create fresh fixtures for each evaluation and remove
+them after use.
